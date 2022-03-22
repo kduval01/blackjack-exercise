@@ -1,0 +1,15 @@
+Locate the HTML and JS layout
+Style the Blackjack card table 
+Set the card image for the dealer-hand and player-hand 
+Create the deal button structure the function
+create deck of cards 
+create the dealerHand and playerHand arrays
+locate images for cards
+create a display for the dealerhand and playerhand on page
+write a function to shuffle the deck
+write a function to calculate points
+add fuction to display points after dealing cards
+add function to check if there is an bust after each card is dealt
+set stand button when clicked to not deal the player anymore cards deal the dealer until it reach 17 points or more
+determine a winner
+create a way to restart game
